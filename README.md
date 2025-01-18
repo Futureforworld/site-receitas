@@ -15,6 +15,11 @@ Bem-vindo ao meu projeto de **site de receitas**! Este é um site interativo e r
 - **Banco de Dados**: MongoDB
 - **Design**: Flexbox, CSS Grid
 
+## 🌐 Acesse o site
+Clique no link abaixo para acessar o **site de receitas** ao vivo:
+
+[**Acesse o site de receitas**](link-do-site)  *(substitua "link-do-site" pelo link real do seu projeto)*
+
 ## 📚 Como Usar
 
 1. Clone o repositório:
