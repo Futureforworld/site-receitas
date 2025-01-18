@@ -15,6 +15,11 @@ Bem-vindo ao meu projeto de **site de receitas**! Este é um site interativo e r
 - **Banco de Dados**: MongoDB
 - **Design**: Flexbox, CSS Grid
 
+🛠️ Funcionalidades
+Busca de Receitas: Através de um formulário simples, os usuários podem procurar receitas por nome ou ingrediente.
+Adicionar Receitas: Usuários autenticados podem adicionar suas próprias receitas, incluindo título, ingredientes e passos para preparo.
+Visualização de Receitas: As receitas cadastradas podem ser visualizadas de forma clara e bem estruturada.
+
 ## 🌐 Acesse o site
 Clique no link abaixo para acessar o **site de receitas** ao vivo:
 
@@ -26,11 +31,4 @@ Clique no link abaixo para acessar o **site de receitas** ao vivo:
    ```bash
    git clone https://github.com/Futureforworld/site-receitas.git
 
-🛠️ Funcionalidades
-Busca de Receitas: Através de um formulário simples, os usuários podem procurar receitas por nome ou ingrediente.
-Adicionar Receitas: Usuários autenticados podem adicionar suas próprias receitas, incluindo título, ingredientes e passos para preparo.
-Visualização de Receitas: As receitas cadastradas podem ser visualizadas de forma clara e bem estruturada.
-🌱 Objetivos Futuros
-Melhorar o design da interface do usuário (UI).
-Adicionar autenticação para permitir que os usuários façam login e salvem suas receitas favoritas.
-Implementar comentários e avaliações para cada receita.
+
