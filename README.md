@@ -18,7 +18,7 @@ Bem-vindo ao meu projeto de **site de receitas**! Este é um site interativo e r
 ## 🌐 Acesse o site
 Clique no link abaixo para acessar o **site de receitas** ao vivo:
 
-[**Acesse o site de receitas**](link-do-site)  *(substitua "link-do-site" pelo link real do seu projeto)*
+[**Acesse o site de receitas**](https://futureforworld.github.io/site-receitas/)  
 
 ## 📚 Como Usar
 
