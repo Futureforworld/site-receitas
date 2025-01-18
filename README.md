@@ -20,6 +20,8 @@ Busca de Receitas: Através de um formulário simples, os usuários podem procur
 Adicionar Receitas: Usuários autenticados podem adicionar suas próprias receitas, incluindo título, ingredientes e passos para preparo.
 Visualização de Receitas: As receitas cadastradas podem ser visualizadas de forma clara e bem estruturada.
 
+Obrigado pela visita! Sinta-se à vontade para explorar o repositório e contribuir. Suas sugestões são sempre bem-vindas!
+
 ## 🌐 Acesse o site
 Clique no link abaixo para acessar o **site de receitas** ao vivo:
 
